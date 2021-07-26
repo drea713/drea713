@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @drea713
 - 👀 I’m interested in swimming, photography, coding. 
-- 🌱 I’m currently learning HTML/CSS CS50.
+- 🌱 I’m about to start Coding Temple bootcamp!
 - 💞️ I’m looking to collaborate on anything, I want to learn as much as possible.
 - 📫 How to reach me apirela713@gmail.com
 

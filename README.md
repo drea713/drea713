@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @drea713
+- 👋 Hi, I’m Andrea Pirela aka @drea713
 - 👀 I’m interested in coding, building projects, and always learning. 
 - 🌱 I’m currently attending the bootcamp Coding Temple to become a Developer!
 - 💞️ I’m looking to collaborate on anything, I want to learn as much as possible.

@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @drea713
-- 👀 I’m interested in swimming, photography, coding. 
-- 🌱 I’m currently attending the bootcamp Coding Temple!
+- 👀 I’m interested in coding, building projects, and always learning. 
+- 🌱 I’m currently attending the bootcamp Coding Temple to become a Developer!
 - 💞️ I’m looking to collaborate on anything, I want to learn as much as possible.
-- 📫 How to reach me apirela713@gmail.com
+- 📫 How to reach me apirela713@gmail.com, && https://www.linkedin.com/in/andrea-pirela-403651212/.
 
 <!---
 drea713/drea713 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
